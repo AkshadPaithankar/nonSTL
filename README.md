@@ -1,8 +1,3 @@
-# nonSTL
-Here's a humorous and informative README for your "nonSTL" repository:
-
----
-
 # nonSTL 🚀
 
 Welcome to **nonSTL**—the not-so-standard library of data structures and algorithms that doesn't lean on the crutch of the Standard Template Library (STL). If you've ever thought, "Sure, STL is great... but what if I did things my way?"—you're in the right place.
@@ -57,5 +52,3 @@ This library is licensed under the MIT License. Basically, use it however you li
 Happy coding, and may your pointers never segfault! ✨
 
 ---
-
-Hope this README captures the essence of your "nonSTL" project with a touch of humor!
